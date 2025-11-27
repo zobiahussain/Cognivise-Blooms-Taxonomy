@@ -350,7 +350,7 @@ def footer():
             <p style="margin: 0.5rem 0;">
                 <a href="mailto:contact@cognivise.com" style="color: #4CC9F0; text-decoration: none; margin: 0 1rem;">Email</a>
                 <span style="color: rgba(255,255,255,0.3);">|</span>
-                <a href="https://github.com/cognivise" target="_blank" style="color: #4CC9F0; text-decoration: none; margin: 0 1rem;">GitHub</a>
+                <a href="https://github.com/zobiahussain/cognivise-blooms-taxonomy" target="_blank" style="color: #4CC9F0; text-decoration: none; margin: 0 1rem;">GitHub</a>
             </p>
             <p style="margin: 0.5rem 0; color: rgba(255,255,255,0.5);">© Cognivise 2025</p>
         </div>

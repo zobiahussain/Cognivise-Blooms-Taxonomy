@@ -50,7 +50,7 @@ If you prefer to download manually:
 - **Base Model**: TinyLlama-1.1B-Chat-v1.0
 - **Fine-tuning**: LoRA (Low-Rank Adaptation)
 - **Accuracy**: 82.42% on test set
-- **Size**: ~21 MB
+- **Size**: 17 MB
 - **Training Data**: ~2,948 questions
 
 ## Verification

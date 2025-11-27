@@ -175,7 +175,7 @@ The system supports two modes:
 4. See [MODEL_DOWNLOAD.md](MODEL_DOWNLOAD.md) for detailed instructions
 
 **Model Details:**
-- Size: ~21 MB
+- Size: 17 MB
 - Accuracy: 82.42% on test set
 - Base: TinyLlama-1.1B fine-tuned with LoRA
 
