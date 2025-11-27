@@ -51,8 +51,8 @@ Based on educational research standards:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd Blooms-Taxonomy-Project
+   git clone https://github.com/zobiahussain/cognivise-blooms-taxonomy.git
+   cd cognivise-blooms-taxonomy
    ```
 
 2. **Download the trained model** (Required)
@@ -172,7 +172,7 @@ The system supports two modes:
 **Required**: The trained model is required for the application to work.
 
 **Download the Model:**
-1. Go to [GitHub Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+1. Go to [GitHub Releases](https://github.com/zobiahussain/cognivise-blooms-taxonomy/releases)
 2. Download `blooms-taxonomy-model-v1.0.zip`
 3. Extract and place in `webapp/models/final_model/`
 4. See [MODEL_DOWNLOAD.md](MODEL_DOWNLOAD.md) for detailed instructions

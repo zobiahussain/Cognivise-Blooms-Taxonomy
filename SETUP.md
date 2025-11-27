@@ -102,7 +102,7 @@ The application requires a trained model to analyze questions. You have two opti
 ### Option 1: Use Pre-trained Model (Recommended)
 
 1. **Download Model from GitHub Releases**
-   - Go to: https://github.com/YOUR_USERNAME/YOUR_REPO/releases
+   - Go to: https://github.com/zobiahussain/cognivise-blooms-taxonomy/releases
    - Download `blooms-taxonomy-model-v1.0.zip`
    - See [MODEL_DOWNLOAD.md](MODEL_DOWNLOAD.md) for detailed instructions
 

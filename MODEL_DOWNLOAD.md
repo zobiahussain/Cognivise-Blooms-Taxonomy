@@ -7,7 +7,7 @@ The trained model is required for the application to work. Download it from GitH
 ### Option 1: Download from GitHub Releases (Recommended)
 
 1. **Go to GitHub Releases**
-   - Visit: https://github.com/YOUR_USERNAME/YOUR_REPO/releases
+   - Visit: https://github.com/zobiahussain/cognivise-blooms-taxonomy/releases
    - Find the latest release
    - Download `blooms-taxonomy-model-v1.0.zip`
 
