@@ -74,7 +74,7 @@ Based on educational research standards:
      GEMINI_API_KEY=your-api-key-here
      ```
    - Get your API key from: https://aistudio.google.com/apikey
-   - See `QUICK_START.md` for detailed instructions
+   - See [SETUP.md](SETUP.md) section "API Configuration" for detailed instructions
 
 5. **Run the application**
    ```bash
@@ -109,7 +109,7 @@ Blooms-Taxonomy-Project/
 ├── train_improved_context_aware.py  # Model training script
 ├── README.md                  # This file
 ├── SETUP.md                   # Detailed setup guide
-├── QUICK_START.md             # Quick start guide
+├── MODEL_DOWNLOAD.md          # Model download instructions
 └── .gitignore                 # Git ignore rules
 ```
 
@@ -277,10 +277,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Additional Resources
 
-- [SETUP.md](SETUP.md) - Detailed setup instructions
-- [QUICK_START.md](QUICK_START.md) - Quick start guide
-- [IMPROVED_TRAINING_GUIDE.md](IMPROVED_TRAINING_GUIDE.md) - Model training guide
-- [RESEARCH_PAPER_DETAILS.md](RESEARCH_PAPER_DETAILS.md) - Research methodology
+- [SETUP.md](SETUP.md) - Detailed setup instructions including API configuration
+- [MODEL_DOWNLOAD.md](MODEL_DOWNLOAD.md) - Model download instructions
 
 ---
 
