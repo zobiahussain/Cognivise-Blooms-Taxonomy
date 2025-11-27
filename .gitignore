@@ -48,4 +48,9 @@ data/
 explanations/
 
 # Results and outputs (optional - uncomment if you want to exclude)
-# results/
+# results/webapp/.env.bak
+blooms-taxonomy-model-v1.0.zip
+
+# Miscellaneous files
+*.pdf
+!webapp/static/*.pdf
