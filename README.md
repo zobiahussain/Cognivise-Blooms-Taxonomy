@@ -56,7 +56,7 @@ Based on educational research standards:
    ```
 
 2. **Download the trained model** (Required)
-   - Go to [GitHub Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
+   - Go to [GitHub Releases](https://github.com/zobiahussain/cognivise-blooms-taxonomy/releases)
    - Download `blooms-taxonomy-model-v1.0.zip`
    - Extract and place in `webapp/models/final_model/`
    - See [MODEL_DOWNLOAD.md](MODEL_DOWNLOAD.md) for detailed instructions
