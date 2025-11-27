@@ -1,19 +1,6 @@
 # Quick Start Guide - Setting Up API Keys
 
-## Easiest Method: Use the Setup Script
-
-1. **Run the setup script:**
-   ```bash
-   python setup_api_keys.py
-   ```
-
-2. **Follow the prompts:**
-   - Enter your Gemini API key (get it from https://aistudio.google.com/apikey)
-   - Or press Enter to skip if you don't have one
-
-3. **Done!** The script creates a `.env` file with your keys.
-
-## Manual Method: Create .env File
+## Create .env File
 
 1. **Create a file named `.env`** in the project root:
    ```
@@ -69,7 +56,7 @@ The app uses **Gemini by default** if API key is available, otherwise uses local
 - Restart your terminal/IDE
 
 **Still having issues?**
-- Check the full guide: `API_KEYS_SETUP.md`
+- Check the full setup guide: `SETUP.md`
 - Make sure `python-dotenv` is installed: `pip install python-dotenv`
 
 
