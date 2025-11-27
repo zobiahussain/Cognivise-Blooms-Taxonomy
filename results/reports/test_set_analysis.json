@@ -1,0 +1,119 @@
+{
+  "exam_name": "BISE Test Set",
+  "total_questions": 91,
+  "actual_distribution": {
+    "Remembering": {
+      "count": 20,
+      "percentage": 21.978021978021978
+    },
+    "Understanding": {
+      "count": 19,
+      "percentage": 20.87912087912088
+    },
+    "Applying": {
+      "count": 13,
+      "percentage": 14.285714285714285
+    },
+    "Analyzing": {
+      "count": 9,
+      "percentage": 9.89010989010989
+    },
+    "Evaluating": {
+      "count": 15,
+      "percentage": 16.483516483516482
+    },
+    "Creating": {
+      "count": 15,
+      "percentage": 16.483516483516482
+    }
+  },
+  "comparison": {
+    "Remembering": {
+      "actual": 21.978021978021978,
+      "ideal": 15.0,
+      "difference": 6.978021978021978,
+      "count": 20
+    },
+    "Understanding": {
+      "actual": 20.87912087912088,
+      "ideal": 20.0,
+      "difference": 0.8791208791208796,
+      "count": 19
+    },
+    "Applying": {
+      "actual": 14.285714285714285,
+      "ideal": 25.0,
+      "difference": -10.714285714285715,
+      "count": 13
+    },
+    "Analyzing": {
+      "actual": 9.89010989010989,
+      "ideal": 20.0,
+      "difference": -10.10989010989011,
+      "count": 9
+    },
+    "Evaluating": {
+      "actual": 16.483516483516482,
+      "ideal": 10.0,
+      "difference": 6.483516483516482,
+      "count": 15
+    },
+    "Creating": {
+      "actual": 16.483516483516482,
+      "ideal": 10.0,
+      "difference": 6.483516483516482,
+      "count": 15
+    }
+  },
+  "missing": [],
+  "deficient": [
+    {
+      "level": "Applying",
+      "actual": 14.285714285714285,
+      "ideal": 25.0,
+      "gap": 10.714285714285715,
+      "action": "INCREASE Applying by 9 questions"
+    },
+    {
+      "level": "Analyzing",
+      "actual": 9.89010989010989,
+      "ideal": 20.0,
+      "gap": 10.10989010989011,
+      "action": "INCREASE Analyzing by 9 questions"
+    }
+  ],
+  "excessive": [
+    {
+      "level": "Remembering",
+      "actual": 21.978021978021978,
+      "ideal": 15.0,
+      "excess": 6.978021978021978,
+      "action": "REDUCE Remembering by 6 questions"
+    },
+    {
+      "level": "Evaluating",
+      "actual": 16.483516483516482,
+      "ideal": 10.0,
+      "excess": 6.483516483516482,
+      "action": "REDUCE Evaluating by 5 questions"
+    },
+    {
+      "level": "Creating",
+      "actual": 16.483516483516482,
+      "ideal": 10.0,
+      "excess": 6.483516483516482,
+      "action": "REDUCE Creating by 5 questions"
+    }
+  ],
+  "balanced": [
+    {
+      "level": "Understanding",
+      "actual": 20.87912087912088,
+      "ideal": 20.0
+    }
+  ],
+  "quality_score": 79.17582417582418,
+  "quality_rating": "Fair",
+  "quality_color": "yellow",
+  "total_deviation": 41.64835164835165
+}

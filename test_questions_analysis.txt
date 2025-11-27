@@ -1,0 +1,36 @@
+Test Questions for Smart Corrector Analysis
+============================================
+
+1. Differentiate the impacts of military rule versus civilian government on democratic institutions in Pakistan.
+   Expected: Analyzing
+
+2. Analyze the complex interplay of political dynasties, the military's influence, and religious conservatism in shaping the trajectory of democratic institutions in Pakistan.
+   Expected: Analyzing
+
+3. Distinguish between the effects of feudalism and urbanization on political participation in Pakistan.
+   Expected: Analyzing
+
+4. Explain how different interpretations of Islamic law have influenced the development of democratic institutions in Pakistan.
+   Expected: Analyzing
+
+5. Evaluate the effectiveness of the current electoral system in promoting democratic values in Pakistan.
+   Expected: Evaluating
+
+6. Judge whether parliamentary democracy or presidential system is more suitable for Pakistan's political context.
+   Expected: Evaluating
+
+7. What is the significance of the separation of powers in a democratic system?
+   Expected: Understanding
+
+8. What is the definition of democracy?
+   Expected: Remembering
+
+9. Implement a binary search algorithm to find an element in a sorted array.
+   Expected: Applying
+
+10. Design a comprehensive framework for evaluating the effectiveness of democratic institutions.
+   Expected: Creating
+
+
+
+

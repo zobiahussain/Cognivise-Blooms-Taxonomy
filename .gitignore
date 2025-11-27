@@ -1,0 +1,51 @@
+# Environment variables
+.env
+.env.local
+
+# Mac system files
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# User-generated data (keep directory structure but ignore contents)
+webapp/exports/*
+!webapp/exports/.gitkeep
+webapp/user_history/*
+!webapp/user_history/.gitkeep
+webapp/users.json
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model files (download from GitHub Releases instead)
+models/
+webapp/models/
+
+# Training data and datasets (exclude from repo)
+data/
+
+# Personal notes and explanations
+explanations/
+
+# Results and outputs (optional - uncomment if you want to exclude)
+# results/
