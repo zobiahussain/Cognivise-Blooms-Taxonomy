@@ -40,7 +40,7 @@ Based on educational research standards:
 - **Evaluating**: 10%
 - **Creating**: 10%
 
-## Quick Start
+## Installation and Quick Start
 
 ### Prerequisites
 
@@ -84,14 +84,14 @@ Based on educational research standards:
 6. **Access the app**
    - Open your browser to `http://localhost:8501`
 
-## Detailed Setup Guide
+## Detailed Setup Instructions
 
-For comprehensive setup instructions, see [SETUP.md](SETUP.md)
+For comprehensive installation and setup instructions, see [SETUP.md](SETUP.md)
 
 ## Project Structure
 
 ```
-Blooms-Taxonomy-Project/
+cognivise-blooms-taxonomy/
 ├── webapp/                    # Web application
 │   ├── app.py                # Main Streamlit application
 │   ├── requirements.txt      # Python dependencies
@@ -104,11 +104,8 @@ Blooms-Taxonomy-Project/
 │   │   └── auth.py                       # Authentication system
 │   ├── static/               # Static assets (images, fonts)
 │   └── exports/              # User-generated exports (gitignored)
-├── code/                      # Core analysis code
-│   └── analyzer.py           # Model loading and analysis
-├── train_improved_context_aware.py  # Model training script
-├── README.md                  # This file
-├── SETUP.md                   # Detailed setup guide
+├── README.md                  # Project overview and quick start
+├── SETUP.md                   # Complete installation and setup guide
 ├── MODEL_DOWNLOAD.md          # Model download instructions
 └── .gitignore                 # Git ignore rules
 ```
@@ -182,25 +179,11 @@ The system supports two modes:
 - Accuracy: 82.42% on test set
 - Base: TinyLlama-1.1B fine-tuned with LoRA
 
-**Alternative: Train Your Own Model**
-- See `IMPROVED_TRAINING_GUIDE.md` for training instructions
-- Use `train_improved_context_aware.py` script
+**Note**: The model is pre-trained and ready to use. Training your own model requires advanced setup and is not covered in this repository.
 
 ## Development
 
-### Training the Model
-
-See `IMPROVED_TRAINING_GUIDE.md` for detailed training instructions.
-
-### Running Tests
-
-```bash
-# Run analysis tests
-python -m pytest tests/
-
-# Run specific module tests
-python -m pytest tests/test_analyzer.py
-```
+This repository contains the production-ready application. For development and training, you would need to set up your own training environment and data.
 
 ## API Reference
 
@@ -239,9 +222,9 @@ questions = generate_questions_improved(
 ### Common Issues
 
 **"Model not found" error**
-- Download the model files from releases
+- Download the model files from [GitHub Releases](https://github.com/zobiahussain/cognivise-blooms-taxonomy/releases)
 - Place in `webapp/models/final_model/`
-- Or train your own model (see training guide)
+- See [MODEL_DOWNLOAD.md](MODEL_DOWNLOAD.md) for detailed instructions
 
 **"API key not found" error**
 - Create `.env` file in project root

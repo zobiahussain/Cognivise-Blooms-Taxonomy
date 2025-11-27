@@ -1,4 +1,4 @@
-# Complete Setup Guide
+# Installation and Setup Guide
 
 This guide will walk you through setting up the Bloom's Taxonomy Exam Analyzer from scratch.
 
@@ -134,18 +134,7 @@ The application requires a trained model to analyze questions. You have two opti
 
 ### Option 2: Train Your Own Model
 
-See `IMPROVED_TRAINING_GUIDE.md` for detailed training instructions.
-
-**Quick Training Steps:**
-```bash
-# Prepare your training data
-# Format: CSV with 'question' and 'bloom_level' columns
-
-# Run training script
-python train_improved_context_aware.py
-
-# Model will be saved to models/final/
-```
+**Note**: Training your own model requires advanced setup, training data, and computational resources. This is not covered in this repository. The pre-trained model provided in releases is recommended for most users.
 
 ## API Configuration
 
