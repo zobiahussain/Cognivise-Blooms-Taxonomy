@@ -8,7 +8,7 @@ The trained model is required for the application to work. Download it from GitH
 
 1. **Go to GitHub Releases**
    - Visit: https://github.com/zobiahussain/cognivise-blooms-taxonomy/releases
-   - Find the latest release
+   - Find the release titled: **"Cognivise - Bloom's Taxonomy Model v1.0"**
    - Download `blooms-taxonomy-model-v1.0.zip`
 
 2. **Extract the Model**
