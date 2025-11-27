@@ -56,3 +56,4 @@ blooms-taxonomy-model-v1.0.zip
 # Miscellaneous files
 *.pdf
 !webapp/static/*.pdf
+research_paper.tex
