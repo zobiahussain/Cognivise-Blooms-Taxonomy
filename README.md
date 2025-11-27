@@ -257,10 +257,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Zobia Hussain**
 
+- Email: zobiahussain25@gmail.com
 - GitHub: [@zobiahussain](https://github.com/zobiahussain)
 - Repository: [cognivise-blooms-taxonomy](https://github.com/zobiahussain/cognivise-blooms-taxonomy)
 
-For questions, issues, or contributions, please open an issue on GitHub.
+For questions, issues, or contributions, please open an issue on GitHub or contact via email.
 
 ## Acknowledgments
 
