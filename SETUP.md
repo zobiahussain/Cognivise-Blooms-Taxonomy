@@ -347,9 +347,8 @@ use_cpu_model = True
 After successful setup:
 
 1. **Read the README.md** for feature overview
-2. **Try the Quick Start Guide** for basic usage
-3. **Explore the web interface** to understand all features
-4. **Check the training guide** if you want to train your own model
+2. **Explore the web interface** to understand all features
+3. **Check the API Configuration section above** if you need to set up Gemini API
 
 ## Getting Help
 
